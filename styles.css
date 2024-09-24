@@ -238,15 +238,6 @@ p {
     font-size: 1.2rem;
 }
 
-/*.right-column img {
-    width: 100%; /* La imagen cubre toda la columna */
-    /*height: 100%; /* La imagen cubre todo el alto de la columna */
-    /*object-fit: cover;
-    transition: transform 0.5s ease; /* Transición suave al pasar el mouse */
-/*}*/
-
-
-
 .right-column:hover {
     transform: scale(1.2); /* Aumenta el zoom al 120% cuando el mouse está sobre la columna derecha */
 }
